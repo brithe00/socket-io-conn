@@ -1,3 +1,1 @@
-# socket-io-conn
-# socket-io-status
-# socket-io-status
+# Small example using socket.io
